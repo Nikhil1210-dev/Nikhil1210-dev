@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Nikhil1210-dev/Nikhil1210-dev/blob/main/LinkedIn%20Cover%20Image%20Design.png)
 @Nikhil1210-dev
 # 👋 Hi, I'm Nikhil Navale  
 🎓 BTech in Computer Science (Artificial Intelligence) – 2nd Year,1st sem
